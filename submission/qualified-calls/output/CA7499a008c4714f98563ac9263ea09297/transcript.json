@@ -1,0 +1,342 @@
+{
+  "call_id": "CA7499a008c4714f98563ac9263ea09297",
+  "scenario_id": "reschedule_appointment_002",
+  "segments": [
+    {
+      "speaker": "system",
+      "start_ms": 0,
+      "end_ms": 3050,
+      "text": " This call may be recorded for quality and training purposes."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 3800,
+      "end_ms": 5750,
+      "text": " Para espanol o prima el dos."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 6500,
+      "end_ms": 6650,
+      "text": " I'm"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 6650,
+      "end_ms": 8750,
+      "text": " Thank sorry. you for calling Pivot Point Orthopedics,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 9150,
+      "end_ms": 10050,
+      "text": " part of Pretty Good AI."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 10450,
+      "end_ms": 11600,
+      "text": " How may I help you today?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 12468,
+      "end_ms": 12918,
+      "text": " Hi,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 13468,
+      "end_ms": 15818,
+      "text": " I'm calling because I need to reschedule my appointment."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 16318,
+      "end_ms": 20768,
+      "text": " My current appointment is next Monday at 9 a.m., but I have a work conflict."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 21318,
+      "end_ms": 24418,
+      "text": " I'm hoping to move it to Wednesday or Friday after 2 p.m."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 24668,
+      "end_ms": 27768,
+      "text": " Could you help me check if there's any availability around those times?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 29718,
+      "end_ms": 30718,
+      "text": " I can help with that."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 30968,
+      "end_ms": 33318,
+      "text": " May I have your full name and date of birth?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 34548,
+      "end_ms": 34948,
+      "text": " Sure."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 35148,
+      "end_ms": 36548,
+      "text": " My name is Morgan Lee,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 36948,
+      "end_ms": 38598,
+      "text": " and my date of birth is September 3,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 38998,
+      "end_ms": 39448,
+      "text": " 1987."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 42998,
+      "end_ms": 43948,
+      "text": " Just to confirm,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 44148,
+      "end_ms": 46198,
+      "text": " could you please spell your first and last name for me?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 46948,
+      "end_ms": 47648,
+      "text": " Of course."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 47848,
+      "end_ms": 51448,
+      "text": " My first name is spelled M-O-R-G-A-N,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 51698,
+      "end_ms": 54448,
+      "text": " and my last name is spelled L-E-E."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 60404,
+      "end_ms": 62554,
+      "text": " Would you like to use your phone number to look up your record?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 63104,
+      "end_ms": 63604,
+      "text": " If so,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 63954,
+      "end_ms": 66104,
+      "text": " please provide the number you have on file with us."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 66604,
+      "end_ms": 67354,
+      "text": " If you're not sure,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 68054,
+      "end_ms": 70754,
+      "text": " let me know and we can confirm your name and date of birth again."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 71954,
+      "end_ms": 74204,
+      "text": " I'm not sure which phone number you have on file."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 74704,
+      "end_ms": 76904,
+      "text": " Could we proceed with the name and date of birth I gave?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 77454,
+      "end_ms": 77954,
+      "text": " Morgan Lee,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 78304,
+      "end_ms": 79704,
+      "text": " September 3rd, 1987."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 83554,
+      "end_ms": 86404,
+      "text": " I wasn't able to find your record with the information provided."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 86868,
+      "end_ms": 88918,
+      "text": " I can connect you to our patient support team."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 89418,
+      "end_ms": 90668,
+      "text": " I can also help with booking,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 91018,
+      "end_ms": 92768,
+      "text": " rescheduling or canceling appointments,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 93268,
+      "end_ms": 97568,
+      "text": " medication refills, insurance updates and general clinic questions."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 98268,
+      "end_ms": 99268,
+      "text": " Would you like to give me a try?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 100068,
+      "end_ms": 101868,
+      "text": " Yes, let's give it a try."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 102168,
+      "end_ms": 109718,
+      "text": " My current appointment is next Monday at 9 a.m. I need to move it to Wednesday or Friday after 2 p.m. Are there any slots available then?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 111924,
+      "end_ms": 115524,
+      "text": " I'll need to verify your identity before I can access your appointment details."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 116174,
+      "end_ms": 118774,
+      "text": " Could you share any other information that might be on your chart,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 119174,
+      "end_ms": 121224,
+      "text": " such as an alternate phone number or email address?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 122224,
+      "end_ms": 123024,
+      "text": " I'm sorry,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 123274,
+      "end_ms": 125474,
+      "text": " I don't have that information available right now."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 125924,
+      "end_ms": 128224,
+      "text": " Could we verify using my name and date of birth again?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 131274,
+      "end_ms": 134324,
+      "text": " I'm unable to proceed without matching your record in our system."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 134724,
+      "end_ms": 137574,
+      "text": " I'll connect you to our patient support team for further help."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 138024,
+      "end_ms": 138874,
+      "text": " Please stay on the line."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 139540,
+      "end_ms": 140540,
+      "text": " Transferring you now."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 140740,
+      "end_ms": 141090,
+      "text": " Thank you."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 142240,
+      "end_ms": 142840,
+      "text": " Thank you."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 142840,
+      "end_ms": 143140,
+      "text": " Hello,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 143140,
+      "end_ms": 143540,
+      "text": " I'll wait."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 143540,
+      "end_ms": 145540,
+      "text": " you've reached the pretty good AI test line."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 147190,
+      "end_ms": 147890,
+      "text": " Goodbye,"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 148040,
+      "end_ms": 149240,
+      "text": " and have a great day."
+    }
+  ]
+}

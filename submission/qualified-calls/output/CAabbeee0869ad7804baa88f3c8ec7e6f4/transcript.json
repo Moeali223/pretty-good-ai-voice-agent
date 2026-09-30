@@ -1,0 +1,372 @@
+{
+  "call_id": "CAabbeee0869ad7804baa88f3c8ec7e6f4",
+  "scenario_id": "medication_refill_004",
+  "segments": [
+    {
+      "speaker": "system",
+      "start_ms": 0,
+      "end_ms": 4750,
+      "text": " This call may be recorded for quality and training purposes.\" (Para espanol,"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 5050,
+      "end_ms": 6400,
+      "text": " oprima el dos.)"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 6700,
+      "end_ms": 8700,
+      "text": " Thanks for calling Pivot Point Orthopedics,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 9150,
+      "end_ms": 11500,
+      "text": " part of Pretty Good a How may I help you today?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 12600,
+      "end_ms": 12850,
+      "text": " Hi,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 13000,
+      "end_ms": 13350,
+      "text": " yes,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 13650,
+      "end_ms": 17100,
+      "text": " I'm calling to request a refill for my lisinopril ten milligram."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 17750,
+      "end_ms": 19450,
+      "text": " I only have three tablets left,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 19800,
+      "end_ms": 22000,
+      "text": " and I usually get it from Pine Street Pharmacy."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 22400,
+      "end_ms": 23600,
+      "text": " Could you help me with that process?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 26740,
+      "end_ms": 28840,
+      "text": " I see you're calling from the number we have on file."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 29540,
+      "end_ms": 30390,
+      "text": " Am I speaking with Jamie?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 31090,
+      "end_ms": 31790,
+      "text": " Actually,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 32240,
+      "end_ms": 33290,
+      "text": " this is Casey Wynn."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 33640,
+      "end_ms": 34640,
+      "text": " You've got the right patient."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 35190,
+      "end_ms": 36890,
+      "text": " I'm just hoping to get that refill started."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 38740,
+      "end_ms": 40190,
+      "text": " Please provide your date of birth."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 41140,
+      "end_ms": 41590,
+      "text": " Sure."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 41990,
+      "end_ms": 44890,
+      "text": " My date of birth is February 14th, 1969."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 48916,
+      "end_ms": 54266,
+      "text": " Just to confirm, I have your name as Casey Wynn and your date of birth as February 14th, 1969."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 54866,
+      "end_ms": 55616,
+      "text": " Is that correct?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 56016,
+      "end_ms": 56616,
+      "text": " If so,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 56716,
+      "end_ms": 58466,
+      "text": " please spell your first and last name for me."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 59416,
+      "end_ms": 59966,
+      "text": " Sure."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 60216,
+      "end_ms": 63966,
+      "text": " It's Casey Wynn. The first name is C-A-S-E-Y,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 64516,
+      "end_ms": 67416,
+      "text": " and the last name is N-G-U-Y-E-N."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 71316,
+      "end_ms": 74916,
+      "text": " Would you like me to look up your record using the phone number you have on file with us?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 75116,
+      "end_ms": 75816,
+      "text": " If so,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 75916,
+      "end_ms": 77216,
+      "text": " please provide that number."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 77516,
+      "end_ms": 80366,
+      "text": " If you're not sure, I can confirm your name and date of birth again."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 82666,
+      "end_ms": 83266,
+      "text": " Thank you."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 83416,
+      "end_ms": 85816,
+      "text": " My phone number is the same one I'm calling from,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 86216,
+      "end_ms": 89266,
+      "text": " 555-213-6789."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 92866,
+      "end_ms": 94816,
+      "text": " I have your phone number as 555."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 95604,
+      "end_ms": 96304,
+      "text": " 2-1-3."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 97104,
+      "end_ms": 98554,
+      "text": " Yes, that's right,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 99004,
+      "end_ms": 102154,
+      "text": " 555-213-6789."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 106254,
+      "end_ms": 108504,
+      "text": " I wasn't able to find your record in our system."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 109204,
+      "end_ms": 112604,
+      "text": " I'll connect you to our patient support team so they can help with your refill request."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 113154,
+      "end_ms": 114104,
+      "text": " Please stay on the line."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 114654,
+      "end_ms": 115554,
+      "text": " Transferring you now."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 117268,
+      "end_ms": 117668,
+      "text": " Hi,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 118068,
+      "end_ms": 119068,
+      "text": " while I'm Hello? waiting to be connected,"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 119068,
+      "end_ms": 119668,
+      "text": " You've reached"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 119668,
+      "end_ms": 119718,
+      "text": " I'd"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 119718,
+      "end_ms": 119868,
+      "text": " the pretty"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 119868,
+      "end_ms": 120018,
+      "text": " like"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 120018,
+      "end_ms": 120118,
+      "text": " to good"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 120118,
+      "end_ms": 120318,
+      "text": " know how"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 120318,
+      "end_ms": 120418,
+      "text": " AI"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 120418,
+      "end_ms": 120668,
+      "text": " long"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 120668,
+      "end_ms": 120818,
+      "text": " the test"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 120818,
+      "end_ms": 120968,
+      "text": " refill"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 120968,
+      "end_ms": 121068,
+      "text": " line."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 121068,
+      "end_ms": 121618,
+      "text": " request usually"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 121618,
+      "end_ms": 121818,
+      "text": " Goodbye."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 121818,
+      "end_ms": 122268,
+      "text": " takes,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 122718,
+      "end_ms": 123718,
+      "text": " and what the next steps are."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 124168,
+      "end_ms": 124368,
+      "text": " Oh,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 124618,
+      "end_ms": 126068,
+      "text": " it looks like the call got disconnected."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 126468,
+      "end_ms": 128618,
+      "text": " I'll need to reach out again to complete my refill request."
+    }
+  ]
+}

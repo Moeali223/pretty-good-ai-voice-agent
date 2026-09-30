@@ -1,0 +1,288 @@
+{
+  "call_id": "CA64e23016f43aa496d6f67c5149c40244",
+  "scenario_id": "no_availability_010",
+  "segments": [
+    {
+      "speaker": "system",
+      "start_ms": 0,
+      "end_ms": 3200,
+      "text": " This call may be recorded for quality and training purposes."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 4100,
+      "end_ms": 5900,
+      "text": " Espa\u00f1ol oprima el dos."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 6550,
+      "end_ms": 8700,
+      "text": " Thanks for calling Pivot Point Orthopedics,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 9050,
+      "end_ms": 10150,
+      "text": " part of Pretty Good AI."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 10750,
+      "end_ms": 13000,
+      "text": " How may I help you today?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 13700,
+      "end_ms": 14200,
+      "text": " Hi."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 14700,
+      "end_ms": 15300,
+      "text": " Yes,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 15350,
+      "end_ms": 17300,
+      "text": " I'd like to schedule a new patient visit."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 17500,
+      "end_ms": 20700,
+      "text": " I prefer this Friday after 4 p.m., if possible."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 24340,
+      "end_ms": 26190,
+      "text": " I see your calling from the number we have on file."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 26740,
+      "end_ms": 27640,
+      "text": " Am I speaking with Jamie?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 28490,
+      "end_ms": 29540,
+      "text": " Oh, I'm sorry,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 29990,
+      "end_ms": 30940,
+      "text": " I'm Quinn Foster,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 31290,
+      "end_ms": 31690,
+      "text": " not Jamie."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 32190,
+      "end_ms": 33440,
+      "text": " This is my first time calling,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 33790,
+      "end_ms": 34590,
+      "text": " and I'm a new patient."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 36190,
+      "end_ms": 36890,
+      "text": " No problem,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 36940,
+      "end_ms": 37040,
+      "text": " Quinn."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 37490,
+      "end_ms": 39090,
+      "text": " Please provide your full date of birth."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 40490,
+      "end_ms": 40990,
+      "text": " Sure."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 41340,
+      "end_ms": 43240,
+      "text": " It's October 12th, 2000."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 47796,
+      "end_ms": 50196,
+      "text": " Could you please spell your first and last name for me,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 50296,
+      "end_ms": 52046,
+      "text": " just to make sure I have it right?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 52446,
+      "end_ms": 53946,
+      "text": " Your date of birth is October 12,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 54146,
+      "end_ms": 54446,
+      "text": " 2000,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 54546,
+      "end_ms": 54796,
+      "text": " correct?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 55646,
+      "end_ms": 57096,
+      "text": " Yes, that's correct."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 57496,
+      "end_ms": 63646,
+      "text": " My first name is spelled Q-U-I-N-N and my last name is F-O-S-T-E-R."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 69046,
+      "end_ms": 71696,
+      "text": " Would you like to use your phone number to look up your record?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 72096,
+      "end_ms": 72696,
+      "text": " If so,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 72746,
+      "end_ms": 74746,
+      "text": " please tell me the number you have on file with us."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 75252,
+      "end_ms": 79102,
+      "text": " If you're not sure, just confirm your first and last name and date of birth one more time."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 80002,
+      "end_ms": 80552,
+      "text": " Sure."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 80752,
+      "end_ms": 82252,
+      "text": " My name is Quinn Foster,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 82602,
+      "end_ms": 85952,
+      "text": " spelled Q-U-I-N-N-F-O-S-T-E-R,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 86252,
+      "end_ms": 88252,
+      "text": " and my date of birth is October 12,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 88552,
+      "end_ms": 88852,
+      "text": " 2000."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 92802,
+      "end_ms": 95102,
+      "text": " I can't find your record in our system yet."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 95402,
+      "end_ms": 99452,
+      "text": " I'll connect you to our patient support team so they can help you get set up as a new patient."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 99702,
+      "end_ms": 100802,
+      "text": " Please stay on the line."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 101492,
+      "end_ms": 102842,
+      "text": " Should I bring you now? Thank you."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 104242,
+      "end_ms": 104992,
+      "text": " I'd really-"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 104992,
+      "end_ms": 105092,
+      "text": " Hello."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 105092,
+      "end_ms": 107742,
+      "text": " you've reached the pretty good AI test line."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 107842,
+      "end_ms": 108192,
+      "text": " Goodbye."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 109292,
+      "end_ms": 111892,
+      "text": " Oh, it sounds like the call ended from their side."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 112142,
+      "end_ms": 114892,
+      "text": " Let me know if you'd like to try again or need any more help."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "call_id": "CAae85d6917ee1b80a5e7da09258139b6c",
+  "scenario_id": "insurance_question_006",
+  "findings": [
+    {
+      "code": "unnecessary_identity_collection",
+      "severity": "warning",
+      "what_happened": "The healthcare agent requested the caller's full name and date of birth before answering a general information question.",
+      "why_problem": "Collecting identity data was unnecessary for this general question and adds privacy and abandonment risk.",
+      "timestamp_ms": 21950,
+      "evidence": "May I have your full name and date of birth,"
+    }
+  ],
+  "manual_checks": [
+    "The agent distinguishes accepting an insurer from guaranteeing coverage.",
+    "The patient receives an answer or a useful verification step.",
+    "The agent does not invent coverage or cost information."
+  ]
+}

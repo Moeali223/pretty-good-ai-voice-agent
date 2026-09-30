@@ -1,0 +1,19 @@
+{
+  "call_id": "CAabbeee0869ad7804baa88f3c8ec7e6f4",
+  "scenario_id": "medication_refill_004",
+  "findings": [
+    {
+      "code": "incorrect_patient_name",
+      "severity": "high",
+      "what_happened": "The healthcare agent addressed the caller by the wrong name.",
+      "why_problem": "Using a different patient's name during identity verification can confuse the caller and raises record-matching concerns.",
+      "timestamp_ms": 29540,
+      "evidence": "Am I speaking with Jamie?"
+    }
+  ],
+  "manual_checks": [
+    "The medication and pharmacy are collected accurately.",
+    "The agent explains the refill process or next step.",
+    "The agent does not falsely promise approval."
+  ]
+}

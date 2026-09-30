@@ -1,0 +1,19 @@
+[project]
+name = "pretty-good-ai-voice-agent"
+version = "0.1.0"
+description = "A safe assessment bot for testing a healthcare voice agent."
+requires-python = ">=3.12"
+dependencies = [
+    "certifi>=2024.12.14",
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.34",
+    "websockets>=15",
+    "twilio>=9.4",
+    "openai>=2.0",
+    "python-dotenv>=1.0",
+    "requests>=2.32",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

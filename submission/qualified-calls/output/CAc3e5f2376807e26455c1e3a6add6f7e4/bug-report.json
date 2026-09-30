@@ -1,0 +1,27 @@
+{
+  "call_id": "CAc3e5f2376807e26455c1e3a6add6f7e4",
+  "scenario_id": "ambiguous_request_007",
+  "findings": [
+    {
+      "code": "incorrect_patient_name",
+      "severity": "high",
+      "what_happened": "The healthcare agent addressed the caller by the wrong name.",
+      "why_problem": "Using a different patient's name during identity verification can confuse the caller and raises record-matching concerns.",
+      "timestamp_ms": 26676,
+      "evidence": "Am I speaking with Jamie?"
+    },
+    {
+      "code": "ambiguous_request_not_clarified",
+      "severity": "high",
+      "what_happened": "The healthcare agent began identity verification without asking what kind of appointment help the caller needed.",
+      "why_problem": "Skipping clarification adds unnecessary steps and risks routing or handling the wrong request.",
+      "timestamp_ms": 6250,
+      "evidence": "Thanks for calling Pivot Point Orthopedics,"
+    }
+  ],
+  "manual_checks": [
+    "The agent asks what kind of appointment help is needed.",
+    "The agent does not assume cancellation or rescheduling.",
+    "The appointment time is confirmed or a next step is explained."
+  ]
+}

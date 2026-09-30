@@ -1,0 +1,138 @@
+{
+  "call_id": "CA8c12b086eec560839559f28ec74519e0",
+  "scenario_id": "office_hours_005",
+  "segments": [
+    {
+      "speaker": "system",
+      "start_ms": 0,
+      "end_ms": 3200,
+      "text": " This call may be recorded for quality and training purposes."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 4000,
+      "end_ms": 4850,
+      "text": " Para espanol,"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 5100,
+      "end_ms": 5950,
+      "text": " oprima el dos."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 6750,
+      "end_ms": 6850,
+      "text": " Thanks"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 6850,
+      "end_ms": 7050,
+      "text": " I'll"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 7050,
+      "end_ms": 8900,
+      "text": " for calling Pivot Point Orthopedics,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 9350,
+      "end_ms": 11850,
+      "text": " part of Pretty Good ai How may I help you today?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 12900,
+      "end_ms": 13200,
+      "text": " Hi,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 13700,
+      "end_ms": 14700,
+      "text": " I'm Riley Adams."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 15200,
+      "end_ms": 16250,
+      "text": " I just wanted to check,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 16650,
+      "end_ms": 20350,
+      "text": " could you tell me if your office is open after five p m or on Saturdays?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 22580,
+      "end_ms": 29230,
+      "text": " Our clinic is open Monday through Friday, but we close by 7 p.m. at the latest on Wednesdays and by 4 p.m. on most other weekdays."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 29530,
+      "end_ms": 31380,
+      "text": " We are not open on Saturdays."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 31980,
+      "end_ms": 33180,
+      "text": " Is there anything else I can help with?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 34380,
+      "end_ms": 36030,
+      "text": " Thank you. That clears it up."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 36280,
+      "end_ms": 37730,
+      "text": " I've got all the info I need now."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 38030,
+      "end_ms": 38580,
+      "text": " Have a great day."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 40830,
+      "end_ms": 41680,
+      "text": " Glad I can help."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 41930,
+      "end_ms": 42780,
+      "text": " Have a great day."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 43480,
+      "end_ms": 44080,
+      "text": " You too."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 44230,
+      "end_ms": 44780,
+      "text": " Take care."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 46580,
+      "end_ms": 47230,
+      "text": " Take care."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "call_id": "CA64e23016f43aa496d6f67c5149c40244",
+  "scenario_id": "no_availability_010",
+  "findings": [
+    {
+      "code": "incorrect_patient_name",
+      "severity": "high",
+      "what_happened": "The healthcare agent addressed the caller by the wrong name.",
+      "why_problem": "Using a different patient's name during identity verification can confuse the caller and raises record-matching concerns.",
+      "timestamp_ms": 26740,
+      "evidence": "Am I speaking with Jamie?"
+    }
+  ],
+  "manual_checks": [
+    "The agent handles unavailable times without ending abruptly.",
+    "The agent explores the stated alternative or another clear next step.",
+    "The agent does not invent availability."
+  ]
+}

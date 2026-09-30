@@ -1,0 +1,300 @@
+{
+  "call_id": "CA866170df6cff7dfac18495192d0395e5",
+  "scenario_id": "barge_in_008",
+  "segments": [
+    {
+      "speaker": "system",
+      "start_ms": 0,
+      "end_ms": 3200,
+      "text": " This call may be recorded for quality and training purposes."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 3950,
+      "end_ms": 5900,
+      "text": " Para espanol, oprima el dos."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 6600,
+      "end_ms": 8650,
+      "text": " Thanks for calling Pivot Point Orthopedics,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 9050,
+      "end_ms": 10700,
+      "text": " part of pretty good AI."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 11350,
+      "end_ms": 12200,
+      "text": " How may I help you today?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 13300,
+      "end_ms": 13600,
+      "text": " Hi,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 14000,
+      "end_ms": 15050,
+      "text": " I'm Cameron Diaz,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 15250,
+      "end_ms": 16200,
+      "text": " an existing patient."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 16650,
+      "end_ms": 19250,
+      "text": " I'd like to schedule a routine follow-up for next week."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 22050,
+      "end_ms": 24300,
+      "text": " I see you're calling from the number we have on file."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 24852,
+      "end_ms": 26052,
+      "text": " Am I speaking with Yes. Janie?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 27352,
+      "end_ms": 29352,
+      "text": " Actually, this is Cameron Diaz."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 29552,
+      "end_ms": 31402,
+      "text": " I'm calling to arrange my follow-up."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 33002,
+      "end_ms": 34952,
+      "text": " Please provide your full date of birth."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 36302,
+      "end_ms": 36602,
+      "text": " Sure."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 36902,
+      "end_ms": 38052,
+      "text": " It's December 5,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 38452,
+      "end_ms": 39052,
+      "text": " 1975."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 42802,
+      "end_ms": 43752,
+      "text": " Just to confirm,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 43902,
+      "end_ms": 45502,
+      "text": " can you please spell"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 45502,
+      "end_ms": 45552,
+      "text": " Yeah,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 45552,
+      "end_ms": 45852,
+      "text": " your first"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 45852,
+      "end_ms": 45902,
+      "text": " I..."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 45902,
+      "end_ms": 46502,
+      "text": " and last name?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 47220,
+      "end_ms": 47620,
+      "text": " Sure."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 48020,
+      "end_ms": 52020,
+      "text": " It's C-A-M-E-R-O-N-D-I-A-Z."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 57920,
+      "end_ms": 61920,
+      "text": " Would you like me to look up your record using the phone number you have on file with us?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 62320,
+      "end_ms": 62770,
+      "text": " If so,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 62870,
+      "end_ms": 63820,
+      "text": " please tell me that number."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 64320,
+      "end_ms": 65220,
+      "text": " If you're not sure,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 65270,
+      "end_ms": 67120,
+      "text": " I can confirm your name and date of birth again."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 68420,
+      "end_ms": 72370,
+      "text": " Yes. My name is Cameron Diaz, and my date of birth is December 5,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 72670,
+      "end_ms": 73220,
+      "text": " 1975."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 75540,
+      "end_ms": 78140,
+      "text": " Can you please provide the phone number you have on file with us?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 79190,
+      "end_ms": 79990,
+      "text": " I'm sorry,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 80390,
+      "end_ms": 82240,
+      "text": " I don't have that number available right now."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 83990,
+      "end_ms": 84740,
+      "text": " No problem."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 85190,
+      "end_ms": 91940,
+      "text": " Could you please spell your first and last name for me one more time, just to make sure I have it right, and confirm your date of birth as well."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 92884,
+      "end_ms": 100634,
+      "text": " Of course, my first name is spelled C-A-M-E-R-O-N and my last name is D-I-A-Z."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 101084,
+      "end_ms": 103084,
+      "text": " My date of birth is December 5,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 103434,
+      "end_ms": 104034,
+      "text": " 1975."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 107934,
+      "end_ms": 110184,
+      "text": " I'm unable to locate your record right now."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 110434,
+      "end_ms": 112534,
+      "text": " I can connect you to our patient support team."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 113034,
+      "end_ms": 114284,
+      "text": " I can also help with booking,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 114434,
+      "end_ms": 116084,
+      "text": " rescheduling or canceling appointments,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 116434,
+      "end_ms": 119834,
+      "text": " medication refills, insurance updates and general clinic questions."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 120436,
+      "end_ms": 121636,
+      "text": " Would you like to give me a try?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 122486,
+      "end_ms": 126336,
+      "text": " Yes, let's go ahead and try to book that follow-up appointment for next week."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 128336,
+      "end_ms": 130986,
+      "text": " I'll need to confirm your identity before booking."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 131686,
+      "end_ms": 133386,
+      "text": " Could you provide the phone number you used?"
+    }
+  ]
+}

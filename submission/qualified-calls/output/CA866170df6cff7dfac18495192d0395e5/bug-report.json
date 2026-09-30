@@ -1,0 +1,27 @@
+{
+  "call_id": "CA866170df6cff7dfac18495192d0395e5",
+  "scenario_id": "barge_in_008",
+  "findings": [
+    {
+      "code": "repeated_identity_verification",
+      "severity": "warning",
+      "what_happened": "The healthcare agent repeated an identity-verification request after the caller had already responded.",
+      "why_problem": "Repeating unavailable or already supplied identity questions traps the caller in a loop and prevents progress on the actual request.",
+      "timestamp_ms": 75540,
+      "evidence": "Can you please provide the phone number you have on file with us?"
+    },
+    {
+      "code": "incorrect_patient_name",
+      "severity": "high",
+      "what_happened": "The healthcare agent addressed the caller by the wrong name.",
+      "why_problem": "Using a different patient's name during identity verification can confuse the caller and raises record-matching concerns.",
+      "timestamp_ms": 24852,
+      "evidence": "Am I speaking with Yes. Janie?"
+    }
+  ],
+  "manual_checks": [
+    "The agent stops or adapts when interrupted.",
+    "The afternoon preference is retained.",
+    "The conversation resumes coherently after the interruption."
+  ]
+}

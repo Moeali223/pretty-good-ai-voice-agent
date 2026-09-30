@@ -1,0 +1,19 @@
+{
+  "call_id": "CAb300631d4cc35ec0b5b583bb3f0d9e04",
+  "scenario_id": "correct_information_009",
+  "findings": [
+    {
+      "code": "patient_name_mistranscribed",
+      "severity": "high",
+      "what_happened": "The healthcare agent repeated the caller's name incorrectly during identity confirmation.",
+      "why_problem": "An incorrect name can cause record-matching failures and risks associating the request with the wrong patient.",
+      "timestamp_ms": 29010,
+      "evidence": "I have your name as Drew Bartinez and your date of birth as March 21st, 1988."
+    }
+  ],
+  "manual_checks": [
+    "The agent acknowledges the correction.",
+    "The agent does not continue using the incorrect month.",
+    "The conversation proceeds without losing context."
+  ]
+}

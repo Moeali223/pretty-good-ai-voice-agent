@@ -1,0 +1,19 @@
+{
+  "call_id": "CA1c3bd791b6c6596cef9be3980445c49f",
+  "scenario_id": "cancel_appointment_003",
+  "findings": [
+    {
+      "code": "incorrect_patient_name",
+      "severity": "high",
+      "what_happened": "The healthcare agent addressed the caller by the wrong name.",
+      "why_problem": "Using a different patient's name during identity verification can confuse the caller and raises record-matching concerns.",
+      "timestamp_ms": 23732,
+      "evidence": "Am I speaking with Jamie?"
+    }
+  ],
+  "manual_checks": [
+    "The correct appointment is identified.",
+    "The cancellation is confirmed or a clear next step is given.",
+    "The agent does not force the patient to reschedule."
+  ]
+}

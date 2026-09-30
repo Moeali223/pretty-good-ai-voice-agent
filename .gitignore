@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# macOS files
+.DS_Store
+
+# Editor settings
+.vscode/
+*.code-workspace
+
+# Raw working call artifacts (the reviewed copies under submission/ are public)
+/output/
+
+# Duplicate index created when the downloadable archive is extracted locally
+/submission/qualified-calls/submission/
+
+# Locally downloaded development tools
+.tools/

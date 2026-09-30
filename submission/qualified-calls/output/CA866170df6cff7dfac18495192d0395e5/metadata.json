@@ -1,0 +1,39 @@
+{
+  "call_id": "CA866170df6cff7dfac18495192d0395e5",
+  "scenario_id": "barge_in_008",
+  "status": "review_ready",
+  "created_at": "2026-09-24T06:27:26.207505+00:00",
+  "updated_at": "2026-09-24T06:39:35.874053+00:00",
+  "events": [
+    {
+      "status": "created",
+      "timestamp": "2026-09-24T06:27:26.207505+00:00"
+    },
+    {
+      "status": "queued",
+      "timestamp": "2026-09-24T06:27:26.208605+00:00"
+    },
+    {
+      "status": "ringing",
+      "timestamp": "2026-09-24T06:27:26.233471+00:00"
+    },
+    {
+      "status": "answered",
+      "timestamp": "2026-09-24T06:27:30.029023+00:00"
+    },
+    {
+      "status": "completed",
+      "timestamp": "2026-09-24T06:38:38.226599+00:00"
+    },
+    {
+      "status": "processing",
+      "timestamp": "2026-09-24T06:38:38.827175+00:00"
+    },
+    {
+      "status": "review_ready",
+      "timestamp": "2026-09-24T06:39:35.874053+00:00"
+    }
+  ],
+  "recording_id": "RE8d89c7b3abc67035542bec96511f39af",
+  "recording_status": "completed"
+}

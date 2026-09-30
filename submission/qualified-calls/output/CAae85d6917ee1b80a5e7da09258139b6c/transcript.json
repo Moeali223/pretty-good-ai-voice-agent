@@ -1,0 +1,330 @@
+{
+  "call_id": "CAae85d6917ee1b80a5e7da09258139b6c",
+  "scenario_id": "insurance_question_006",
+  "segments": [
+    {
+      "speaker": "system",
+      "start_ms": 0,
+      "end_ms": 3150,
+      "text": " This call may be recorded for quality and training purposes."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 3650,
+      "end_ms": 4600,
+      "text": " Para espa\u00f1ol,"
+    },
+    {
+      "speaker": "system",
+      "start_ms": 5000,
+      "end_ms": 5900,
+      "text": " oprima el dos."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 6450,
+      "end_ms": 10300,
+      "text": " Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 10650,
+      "end_ms": 12000,
+      "text": " How may I help you today?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 12650,
+      "end_ms": 13250,
+      "text": " Hi there."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 13550,
+      "end_ms": 16350,
+      "text": " I'm hoping you can help me with a quick question about insurance."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 17000,
+      "end_ms": 20000,
+      "text": " Could you tell me if your office accepts Blue Shield of California?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 21950,
+      "end_ms": 24350,
+      "text": " May I have your full name and date of birth,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 26068,
+      "end_ms": 26668,
+      "text": " Of course."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 27118,
+      "end_ms": 28968,
+      "text": " My name is Jordan Patel,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 29318,
+      "end_ms": 31518,
+      "text": " and my date of birth is January 17,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 31968,
+      "end_ms": 32418,
+      "text": " 1983."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 35918,
+      "end_ms": 36968,
+      "text": " Just to confirm,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 37118,
+      "end_ms": 41618,
+      "text": " I have your name as Jordan Patel and your date of birth as January 17,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 42168,
+      "end_ms": 42718,
+      "text": " 1983."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 43318,
+      "end_ms": 44068,
+      "text": " Is that correct?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 45068,
+      "end_ms": 45468,
+      "text": " Yes,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 45518,
+      "end_ms": 46468,
+      "text": " that's correct."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 50228,
+      "end_ms": 53828,
+      "text": " Would you like me to look up your record using the phone number you have on file with us?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 53978,
+      "end_ms": 54628,
+      "text": " If so,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 54678,
+      "end_ms": 55878,
+      "text": " please provide that number."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 56228,
+      "end_ms": 58228,
+      "text": " If you're not sure, I can confirm your name."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 59678,
+      "end_ms": 60478,
+      "text": " No problem."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 60478,
+      "end_ms": 62228,
+      "text": " I don't have a record with you yet."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 62478,
+      "end_ms": 66978,
+      "text": " I just want to know if your office accepts the Blue Shield of California Silver PPO plan."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 68228,
+      "end_ms": 68678,
+      "text": " Thanks."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 68778,
+      "end_ms": 72928,
+      "text": " Could you let me know if you accept that insurance plan or if there's a way to verify coverage?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 75540,
+      "end_ms": 79340,
+      "text": " Pivot Point Orthopedics accepts most major insurance plans,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 79490,
+      "end_ms": 82990,
+      "text": " including many Blue Shield of California PPO plans."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 83440,
+      "end_ms": 85490,
+      "text": " Coverage can vary by specific plan,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 85690,
+      "end_ms": 90790,
+      "text": " so the best way to confirm is to call the clinic directly or check with your insurance provider."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 91090,
+      "end_ms": 93640,
+      "text": " Would you like the clinic's phone number or address?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 97190,
+      "end_ms": 98390,
+      "text": " I appreciate that."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 98932,
+      "end_ms": 101932,
+      "text": " Actually, if there's a way to speak with someone in your billing department,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 102332,
+      "end_ms": 104482,
+      "text": " or a specialist who can help confirm the details,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 104932,
+      "end_ms": 105582,
+      "text": " that would be great."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 108282,
+      "end_ms": 110632,
+      "text": " I can connect you to our patient support team."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 110932,
+      "end_ms": 112282,
+      "text": " I can also help with booking,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 112382,
+      "end_ms": 114132,
+      "text": " rescheduling, or canceling appointments,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 114932,
+      "end_ms": 117332,
+      "text": " medication refills, insurance updates,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 117732,
+      "end_ms": 119382,
+      "text": " and general clinic questions."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 119832,
+      "end_ms": 121132,
+      "text": " Would you like to give me a try?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 122292,
+      "end_ms": 123442,
+      "text": " Sure, let's go ahead."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 123842,
+      "end_ms": 128242,
+      "text": " I'd love to confirm if the Blue Shield of California Silver PPO plan would be accepted."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 128642,
+      "end_ms": 129542,
+      "text": " Could you help me with that?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 132742,
+      "end_ms": 136092,
+      "text": " I'm unable to confirm insurance details without a patient record."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 136542,
+      "end_ms": 137742,
+      "text": " I can connect you to our..."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 138492,
+      "end_ms": 139592,
+      "text": " That would be great."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 140042,
+      "end_ms": 144992,
+      "text": " Please go ahead and connect me to your billing or patient support team so we can confirm the insurance details."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 145742,
+      "end_ms": 148592,
+      "text": " Hello, you've reached the Pretty Good AI test line."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 148992,
+      "end_ms": 149342,
+      "text": " Goodbye."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 150324,
+      "end_ms": 151024,
+      "text": " Good bye,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 151424,
+      "end_ms": 152524,
+      "text": " and thank you for your time."
+    }
+  ]
+}

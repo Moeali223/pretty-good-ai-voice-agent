@@ -1,0 +1,306 @@
+{
+  "call_id": "CAb300631d4cc35ec0b5b583bb3f0d9e04",
+  "scenario_id": "correct_information_009",
+  "segments": [
+    {
+      "speaker": "system",
+      "start_ms": 0,
+      "end_ms": 3200,
+      "text": " This call may be recorded for quality and training purposes."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 3950,
+      "end_ms": 5900,
+      "text": " Para Espanol oprima el dos."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 6700,
+      "end_ms": 6850,
+      "text": " Thanks"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 6850,
+      "end_ms": 7000,
+      "text": " Alright."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 7000,
+      "end_ms": 9100,
+      "text": " for calling Pivot Point Orthopedics,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 9550,
+      "end_ms": 12050,
+      "text": " part of pretty good ai How may I help you today?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 13100,
+      "end_ms": 13300,
+      "text": " Hi,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 13900,
+      "end_ms": 15950,
+      "text": " I'm calling to confirm my upcoming appointment."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 16600,
+      "end_ms": 17700,
+      "text": " My name is Drew Martinez."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 18400,
+      "end_ms": 21200,
+      "text": " Date of birth is May twenty first nineteen eighty eight."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 21650,
+      "end_ms": 21750,
+      "text": " Oh,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 22000,
+      "end_ms": 22300,
+      "text": " sorry,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 22750,
+      "end_ms": 25050,
+      "text": " I meant March twenty first nineteen eighty eight."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 25460,
+      "end_ms": 27110,
+      "text": " Could you confirm you've got that corrected?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 29010,
+      "end_ms": 35110,
+      "text": " I have your name as Drew Bartinez and your date of birth as March 21st, 1988."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 35610,
+      "end_ms": 36460,
+      "text": " Is that correct?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 37360,
+      "end_ms": 37910,
+      "text": " Yes,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 37960,
+      "end_ms": 38760,
+      "text": " that's correct."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 39210,
+      "end_ms": 41360,
+      "text": " Thank you for confirming the corrected birth month."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 41610,
+      "end_ms": 44360,
+      "text": " Could you let me know the details of my upcoming appointment now?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 46772,
+      "end_ms": 48122,
+      "text": " To help find your record,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 48772,
+      "end_ms": 51022,
+      "text": " would you like to use the phone number you have on file with us?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 51522,
+      "end_ms": 51922,
+      "text": " If so,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 52072,
+      "end_ms": 54172,
+      "text": " please tell me the number you use with our office."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 54672,
+      "end_ms": 55472,
+      "text": " If you're not sure,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 55822,
+      "end_ms": 58222,
+      "text": " I can confirm your name and date of birth again instead."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 58872,
+      "end_ms": 59522,
+      "text": " Which would you prefer?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 60822,
+      "end_ms": 63922,
+      "text": " Let's go with confirming by name and date of birth."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 64472,
+      "end_ms": 69072,
+      "text": " My name is Drew Martinez and my date of birth is March 21st, 1988."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 69572,
+      "end_ms": 71722,
+      "text": " Could you confirm my appointment details now?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 75220,
+      "end_ms": 77020,
+      "text": " I have your name as Drew Martinez,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 77320,
+      "end_ms": 79020,
+      "text": " your date of birth as March 21,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 79370,
+      "end_ms": 79820,
+      "text": " 1988,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 80870,
+      "end_ms": 85920,
+      "text": " and your phone number as [REDACTED PHONE NUMBER]."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 86720,
+      "end_ms": 87570,
+      "text": " Is all that correct?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 88320,
+      "end_ms": 89170,
+      "text": " I'm sorry,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 89320,
+      "end_ms": 91520,
+      "text": " I don't have the phone number available to confirm."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 92020,
+      "end_ms": 95820,
+      "text": " Could we proceed by checking my appointment details with my name and date of birth?"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 99270,
+      "end_ms": 102220,
+      "text": " I'm unable to find a matching record with the information provided."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 102932,
+      "end_ms": 105882,
+      "text": " I can connect you to our patient support team for further help."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 106382,
+      "end_ms": 109082,
+      "text": " Would you like to continue with me or should I transfer you now?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 109632,
+      "end_ms": 110882,
+      "text": " Before we move on,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 111232,
+      "end_ms": 113582,
+      "text": " could you double check the spelling of my name in your system?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 114082,
+      "end_ms": 115082,
+      "text": " It's Drew Martinez,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 115682,
+      "end_ms": 119182,
+      "text": " D-R-E-W-M-A-R-T-I-N-E-Z."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 119582,
+      "end_ms": 122382,
+      "text": " We can confirm everything's correct before going further."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 124932,
+      "end_ms": 126282,
+      "text": " Thanks for spelling that out."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 126772,
+      "end_ms": 130772,
+      "text": " I still wasn't able to find a matching record for Drew Martinez with your date of birth."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 131322,
+      "end_ms": 134372,
+      "text": " I can connect you to our patient support team so they can help you directly."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 134872,
+      "end_ms": 136422,
+      "text": " Would you like me to trace for you now?"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+[
+  {
+    "id": "schedule_appointment_001",
+    "title": "Schedule a routine appointment",
+    "category": "scheduling",
+    "patient": {
+      "name": "Jamie Carter",
+      "date_of_birth": "1992-04-18",
+      "status": "existing patient"
+    },
+    "goal": "Schedule a routine appointment for recurring mild headaches.",
+    "known_facts": [
+      "The headaches have happened a few times per week for about one month.",
+      "The patient is not currently experiencing an emergency.",
+      "Weekday afternoons are preferred.",
+      "Tuesday and Thursday afternoons are easiest.",
+      "The patient can accept a different weekday if necessary."
+    ],
+    "conversation_style": [
+      "Speak naturally and answer one question at a time.",
+      "Be polite but not overly formal.",
+      "Ask for clarification when a question is unclear.",
+      "Do not volunteer every detail at the beginning of the call."
+    ],
+    "success_criteria": [
+      "The healthcare agent identifies that the patient wants an appointment.",
+      "The healthcare agent gathers the necessary scheduling information.",
+      "The call ends with either an appointment or a clear next step."
+    ],
+    "safety_rules": [
+      "This is a fictional patient created only for the approved assessment.",
+      "Do not invent medical history, medications, insurance details, or symptoms not listed here.",
+      "Do not claim the situation is an emergency.",
+      "If asked for an unknown detail, say you do not have it available."
+    ]
+  },
+  {
+    "id": "reschedule_appointment_002",
+    "title": "Reschedule an existing appointment",
+    "category": "rescheduling",
+    "patient": {
+      "name": "Morgan Lee",
+      "date_of_birth": "1987-09-03",
+      "status": "existing patient"
+    },
+    "goal": "Move an appointment from Monday morning to later in the week.",
+    "known_facts": [
+      "The existing appointment is next Monday at 9:00 AM.",
+      "The patient has a work conflict.",
+      "Wednesday or Friday after 2:00 PM would work.",
+      "The appointment is a routine follow-up."
+    ],
+    "conversation_style": [
+      "Be friendly and concise.",
+      "Provide the existing appointment details only when asked.",
+      "Ask about alternatives if the preferred times are unavailable."
+    ],
+    "success_criteria": [
+      "The original appointment is identified.",
+      "A new time or a clear next step is provided.",
+      "The patient understands whether the original time was released."
+    ],
+    "safety_rules": [
+      "Use only the fictional facts in this scenario.",
+      "Do not invent a confirmation number.",
+      "If asked for unknown information, say it is unavailable."
+    ]
+  },
+  {
+    "id": "cancel_appointment_003",
+    "title": "Cancel an appointment",
+    "category": "cancellation",
+    "patient": {
+      "name": "Taylor Brooks",
+      "date_of_birth": "1978-11-22",
+      "status": "existing patient"
+    },
+    "goal": "Cancel an upcoming routine appointment without rescheduling.",
+    "known_facts": [
+      "The appointment is this Friday at 3:30 PM.",
+      "The patient no longer needs the appointment.",
+      "The patient does not want to choose a new date today."
+    ],
+    "conversation_style": [
+      "Be polite and direct.",
+      "Decline rescheduling once if it is offered.",
+      "Ask for confirmation that the appointment was canceled."
+    ],
+    "success_criteria": [
+      "The correct appointment is identified.",
+      "The cancellation is confirmed or a clear next step is given.",
+      "The agent does not force the patient to reschedule."
+    ],
+    "safety_rules": [
+      "Use only fictional details from this scenario.",
+      "Do not claim another appointment exists.",
+      "Do not invent a cancellation confirmation number."
+    ]
+  },
+  {
+    "id": "medication_refill_004",
+    "title": "Request a medication refill",
+    "category": "medication_refill",
+    "patient": {
+      "name": "Casey Nguyen",
+      "date_of_birth": "1969-02-14",
+      "status": "existing patient"
+    },
+    "goal": "Ask the office to begin a refill request for a regular medication.",
+    "known_facts": [
+      "The medication is lisinopril 10 mg.",
+      "The patient has three tablets remaining.",
+      "The usual pharmacy is Pine Street Pharmacy.",
+      "The patient is not reporting side effects or an emergency."
+    ],
+    "conversation_style": [
+      "Answer refill questions calmly.",
+      "Ask what happens next and how long requests usually take.",
+      "Do not ask the agent for medical advice."
+    ],
+    "success_criteria": [
+      "The medication and pharmacy are collected accurately.",
+      "The agent explains the refill process or next step.",
+      "The agent does not falsely promise approval."
+    ],
+    "safety_rules": [
+      "This is a fictional medication scenario, not medical advice.",
+      "Do not change the medication, dose, or pharmacy.",
+      "Do not invent symptoms or request controlled substances."
+    ]
+  },
+  {
+    "id": "office_hours_005",
+    "title": "Ask about office hours",
+    "category": "office_information",
+    "patient": {
+      "name": "Riley Adams",
+      "date_of_birth": "1995-06-30",
+      "status": "prospective patient"
+    },
+    "goal": "Find out whether the office is open after 5:00 PM or on Saturdays.",
+    "known_facts": [
+      "The patient works weekdays until 5:00 PM.",
+      "The patient is asking only for general office-hour information.",
+      "No appointment needs to be booked during this call."
+    ],
+    "conversation_style": [
+      "Start with a simple question about hours.",
+      "Ask whether Saturday hours differ from weekday hours.",
+      "End the call once a clear answer or next step is given."
+    ],
+    "success_criteria": [
+      "The agent recognizes an office-hours question.",
+      "The agent gives clear hours or explains how to confirm them.",
+      "The agent does not collect unnecessary medical information."
+    ],
+    "safety_rules": [
+      "Do not invent office hours.",
+      "Do not provide medical symptoms.",
+      "Use only the fictional identity above if identification is requested."
+    ]
+  },
+  {
+    "id": "insurance_question_006",
+    "title": "Ask whether insurance is accepted",
+    "category": "insurance",
+    "patient": {
+      "name": "Jordan Patel",
+      "date_of_birth": "1983-01-17",
+      "status": "prospective patient"
+    },
+    "goal": "Ask whether the office accepts the patient's insurance plan.",
+    "known_facts": [
+      "The insurer is Blue Shield of California.",
+      "The plan is a fictional Silver PPO plan.",
+      "The patient does not have a member ID available.",
+      "The patient wants to know how coverage can be verified."
+    ],
+    "conversation_style": [
+      "Ask a general insurance question first.",
+      "Clarify the insurer and plan type when requested.",
+      "Accept a referral to billing or the insurer if verification is required."
+    ],
+    "success_criteria": [
+      "The agent distinguishes accepting an insurer from guaranteeing coverage.",
+      "The patient receives an answer or a useful verification step.",
+      "The agent does not invent coverage or cost information."
+    ],
+    "safety_rules": [
+      "The insurance details are fictional.",
+      "Do not invent a member ID or policy number.",
+      "Do not claim that coverage is guaranteed."
+    ]
+  },
+  {
+    "id": "ambiguous_request_007",
+    "title": "Clarify an ambiguous request",
+    "category": "ambiguity",
+    "patient": {
+      "name": "Avery Wilson",
+      "date_of_birth": "1990-08-09",
+      "status": "existing patient"
+    },
+    "goal": "Ask for help with an appointment without initially explaining what kind of help is needed.",
+    "known_facts": [
+      "The patient ultimately wants to check the time of tomorrow's appointment.",
+      "The patient believes the appointment is sometime in the afternoon.",
+      "The patient does not want to cancel or reschedule it."
+    ],
+    "conversation_style": [
+      "Begin with: I need some help with my appointment.",
+      "Wait for the agent to ask a clarifying question.",
+      "Reveal that the request is about confirming the time after clarification."
+    ],
+    "success_criteria": [
+      "The agent asks what kind of appointment help is needed.",
+      "The agent does not assume cancellation or rescheduling.",
+      "The appointment time is confirmed or a next step is explained."
+    ],
+    "safety_rules": [
+      "Do not invent an exact appointment time.",
+      "Do not change the goal after it is clarified.",
+      "Use only the fictional facts provided."
+    ]
+  },
+  {
+    "id": "barge_in_008",
+    "title": "Interrupt to clarify a misunderstanding",
+    "category": "barge_in",
+    "patient": {
+      "name": "Cameron Diaz",
+      "date_of_birth": "1975-12-05",
+      "status": "existing patient"
+    },
+    "goal": "Schedule a routine follow-up while testing whether the agent handles one natural interruption.",
+    "known_facts": [
+      "The patient wants a follow-up next week.",
+      "Morning appointments do not work.",
+      "Any weekday after 1:00 PM is acceptable.",
+      "The patient is not calling about an urgent problem."
+    ],
+    "conversation_style": [
+      "Let the agent speak normally at first.",
+      "If the agent suggests a morning time, interrupt once with: Sorry, mornings won't work for me.",
+      "Do not interrupt repeatedly or act hostile.",
+      "Continue cooperatively after the clarification."
+    ],
+    "success_criteria": [
+      "The agent stops or adapts when interrupted.",
+      "The afternoon preference is retained.",
+      "The conversation resumes coherently after the interruption."
+    ],
+    "safety_rules": [
+      "Interrupt no more than once.",
+      "Do not claim an emergency.",
+      "Do not invent unavailable appointment times."
+    ]
+  },
+  {
+    "id": "correct_information_009",
+    "title": "Correct previously provided information",
+    "category": "edge_case",
+    "patient": {
+      "name": "Drew Martinez",
+      "date_of_birth": "1988-03-21",
+      "status": "existing patient"
+    },
+    "goal": "Correct a deliberately misspoken birth month and confirm the agent uses the correction.",
+    "known_facts": [
+      "The correct date of birth is March 21, 1988.",
+      "The patient will initially say May 21, 1988 by mistake.",
+      "The patient should immediately correct the month to March.",
+      "The underlying request is to confirm an upcoming appointment."
+    ],
+    "conversation_style": [
+      "Make the planned mistake only once.",
+      "Correct it clearly and politely.",
+      "Ask the agent to confirm that the corrected information was understood."
+    ],
+    "success_criteria": [
+      "The agent acknowledges the correction.",
+      "The agent does not continue using the incorrect month.",
+      "The conversation proceeds without losing context."
+    ],
+    "safety_rules": [
+      "Both dates are fictional assessment data.",
+      "Do not introduce additional identity changes.",
+      "Do not claim access to a real patient record."
+    ]
+  },
+  {
+    "id": "no_availability_010",
+    "title": "Handle unavailable preferred times",
+    "category": "edge_case",
+    "patient": {
+      "name": "Quinn Foster",
+      "date_of_birth": "2000-10-12",
+      "status": "new patient"
+    },
+    "goal": "Try to schedule a new-patient visit when the preferred time may be unavailable.",
+    "known_facts": [
+      "The patient prefers this Friday after 4:00 PM.",
+      "The visit is routine and can wait.",
+      "If Friday is unavailable, the patient can do the following Tuesday after 3:00 PM.",
+      "If neither works, the patient wants to know about a waitlist or callback."
+    ],
+    "conversation_style": [
+      "State the first preference before offering alternatives.",
+      "Remain flexible if the requested time is unavailable.",
+      "Ask about a waitlist only after both preferred options fail."
+    ],
+    "success_criteria": [
+      "The agent handles unavailable times without ending abruptly.",
+      "The agent explores the stated alternative or another clear next step.",
+      "The agent does not invent availability."
+    ],
+    "safety_rules": [
+      "Do not portray the request as urgent.",
+      "Do not invent appointment slots.",
+      "Use only the fictional information in this scenario."
+    ]
+  }
+]

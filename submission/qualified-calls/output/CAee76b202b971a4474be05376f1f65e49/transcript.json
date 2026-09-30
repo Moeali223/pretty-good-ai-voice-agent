@@ -1,0 +1,300 @@
+{
+  "call_id": "CAee76b202b971a4474be05376f1f65e49",
+  "scenario_id": "schedule_appointment_001",
+  "segments": [
+    {
+      "speaker": "system",
+      "start_ms": 0,
+      "end_ms": 3200,
+      "text": " This call may be recorded for quality and training purposes."
+    },
+    {
+      "speaker": "system",
+      "start_ms": 3950,
+      "end_ms": 5850,
+      "text": " Para espanol, oprima el dos."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 6600,
+      "end_ms": 10400,
+      "text": " Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 10750,
+      "end_ms": 11900,
+      "text": " How may I help you today?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 13450,
+      "end_ms": 15900,
+      "text": " Hi, I'd like to schedule a routine appointment,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 16000,
+      "end_ms": 16200,
+      "text": " please."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 19650,
+      "end_ms": 21850,
+      "text": " I see you're calling from the number we have on file."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 22450,
+      "end_ms": 23550,
+      "text": " Am I speaking with Jamie?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 24852,
+      "end_ms": 26602,
+      "text": " Yes, this is Jamie Carter."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 28452,
+      "end_ms": 29802,
+      "text": " Please provide your date of birth."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 30952,
+      "end_ms": 31252,
+      "text": " Sure,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 31702,
+      "end_ms": 32652,
+      "text": " it's April 18,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 33152,
+      "end_ms": 33652,
+      "text": " 1992."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 37902,
+      "end_ms": 38752,
+      "text": " Just to confirm,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 38802,
+      "end_ms": 41502,
+      "text": " you'd like to schedule a general office visit for routine care."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 41802,
+      "end_ms": 42452,
+      "text": " Is that correct?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 43302,
+      "end_ms": 44552,
+      "text": " Yes, that's correct."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 44802,
+      "end_ms": 47552,
+      "text": " It's for some recurring mild headaches that I've been having."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 50292,
+      "end_ms": 54242,
+      "text": " Do you have a specific provider you'd like to see or are you open to the next available?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 55392,
+      "end_ms": 57592,
+      "text": " I'm open to the next available provider,"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 57692,
+      "end_ms": 59492,
+      "text": " as long as it's a weekday afternoon."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 62192,
+      "end_ms": 65792,
+      "text": " Let me check for the next available weekday afternoon appointments for your visit."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 66692,
+      "end_ms": 67692,
+      "text": " That sounds great."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 67792,
+      "end_ms": 68192,
+      "text": " Thanks."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 70228,
+      "end_ms": 71128,
+      "text": " On Monday,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 71628,
+      "end_ms": 74178,
+      "text": " September 28th, we have afternoon openings with Dr."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 74328,
+      "end_ms": 78128,
+      "text": " Zignu Likosky at 2 p.m., 2.30 p.m., and 3.30 p.m."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 78328,
+      "end_ms": 81828,
+      "text": " Would you like to book the 2 p.m. slot or hear about another time?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 82728,
+      "end_ms": 88128,
+      "text": " Monday could work, but I'd really prefer Tuesday or Thursday afternoon if there's anything available."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 91156,
+      "end_ms": 95156,
+      "text": " On Tuesday, September 29th, there are afternoon openings with Dr."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 95306,
+      "end_ms": 99206,
+      "text": " Zignu Lukoski at 2.30 p.m., 3 p.m., and 3.30 p.m."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 99706,
+      "end_ms": 102456,
+      "text": " Would you like to book one of these or should I check Thursday's options?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 103706,
+      "end_ms": 107006,
+      "text": " Let's go ahead and book the 2.30 p.m. slot on Tuesday."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 107256,
+      "end_ms": 108156,
+      "text": " That works for me."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 112276,
+      "end_ms": 113826,
+      "text": " Your appointment is set for Tuesday,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 114026,
+      "end_ms": 116426,
+      "text": " September 29th at 2.30 p.m. with Dr."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 116576,
+      "end_ms": 120826,
+      "text": " Zbigniew Lukoski at Pivot Point Orthopedics. Please bring your photo ID,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 121526,
+      "end_ms": 122376,
+      "text": " insurance card,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 123126,
+      "end_ms": 124626,
+      "text": " a list of your current medications,"
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 125076,
+      "end_ms": 127076,
+      "text": " and any imaging disks you have."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 127376,
+      "end_ms": 130026,
+      "text": " Would you like me to send you a text message with these details?"
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 131576,
+      "end_ms": 132876,
+      "text": " No, that's okay."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 133026,
+      "end_ms": 134126,
+      "text": " I've got it all noted down."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 134376,
+      "end_ms": 135176,
+      "text": " Thanks for your help."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 137176,
+      "end_ms": 138576,
+      "text": " You're all set for your appointment."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 139252,
+      "end_ms": 141202,
+      "text": " If you need anything else, just give us a call."
+    },
+    {
+      "speaker": "healthcare_agent",
+      "start_ms": 141602,
+      "end_ms": 142402,
+      "text": " Have a great day."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 143252,
+      "end_ms": 144452,
+      "text": " Thanks. You too."
+    },
+    {
+      "speaker": "patient",
+      "start_ms": 144602,
+      "end_ms": 145302,
+      "text": " Take care."
+    }
+  ]
+}

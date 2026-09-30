@@ -1,0 +1,39 @@
+{
+  "call_id": "CAee76b202b971a4474be05376f1f65e49",
+  "scenario_id": "schedule_appointment_001",
+  "status": "review_ready",
+  "created_at": "2026-09-27T03:02:12.012862+00:00",
+  "updated_at": "2026-09-27T03:06:07.833195+00:00",
+  "events": [
+    {
+      "status": "created",
+      "timestamp": "2026-09-27T03:02:12.012862+00:00"
+    },
+    {
+      "status": "queued",
+      "timestamp": "2026-09-27T03:02:12.014213+00:00"
+    },
+    {
+      "status": "ringing",
+      "timestamp": "2026-09-27T03:02:12.379477+00:00"
+    },
+    {
+      "status": "answered",
+      "timestamp": "2026-09-27T03:02:16.456558+00:00"
+    },
+    {
+      "status": "completed",
+      "timestamp": "2026-09-27T03:04:44.672170+00:00"
+    },
+    {
+      "status": "processing",
+      "timestamp": "2026-09-27T03:05:17.901893+00:00"
+    },
+    {
+      "status": "review_ready",
+      "timestamp": "2026-09-27T03:06:07.833195+00:00"
+    }
+  ],
+  "recording_id": "RE3d22f81cda8880fc1dd1a3a9f53e73cc",
+  "recording_status": "completed"
+}
